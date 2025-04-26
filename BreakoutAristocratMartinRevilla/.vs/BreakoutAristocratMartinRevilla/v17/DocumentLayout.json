@@ -1,0 +1,196 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\marti\\OneDrive\\Desktop\\U\\Games\\BreakoutAristocratMartinRevilla\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2544FBF7-84C0-253B-6E69-D6A64E39D9A3}|Assembly-CSharp.csproj|c:\\users\\marti\\onedrive\\desktop\\u\\games\\breakoutaristocratmartinrevilla\\assets\\scripts\\readinlevelsloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2544FBF7-84C0-253B-6E69-D6A64E39D9A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\readinlevelsloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2544FBF7-84C0-253B-6E69-D6A64E39D9A3}|Assembly-CSharp.csproj|C:\\Users\\marti\\OneDrive\\Desktop\\U\\Games\\BreakoutAristocratMartinRevilla\\assets\\scripts\\brickengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2544FBF7-84C0-253B-6E69-D6A64E39D9A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\brickengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2544FBF7-84C0-253B-6E69-D6A64E39D9A3}|Assembly-CSharp.csproj|C:\\Users\\marti\\OneDrive\\Desktop\\U\\Games\\BreakoutAristocratMartinRevilla\\assets\\scripts\\powerupengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2544FBF7-84C0-253B-6E69-D6A64E39D9A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\powerupengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2544FBF7-84C0-253B-6E69-D6A64E39D9A3}|Assembly-CSharp.csproj|C:\\Users\\marti\\OneDrive\\Desktop\\U\\Games\\BreakoutAristocratMartinRevilla\\assets\\scripts\\brick.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2544FBF7-84C0-253B-6E69-D6A64E39D9A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\brick.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2544FBF7-84C0-253B-6E69-D6A64E39D9A3}|Assembly-CSharp.csproj|C:\\Users\\marti\\OneDrive\\Desktop\\U\\Games\\BreakoutAristocratMartinRevilla\\assets\\scripts\\ball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2544FBF7-84C0-253B-6E69-D6A64E39D9A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2544FBF7-84C0-253B-6E69-D6A64E39D9A3}|Assembly-CSharp.csproj|C:\\Users\\marti\\OneDrive\\Desktop\\U\\Games\\BreakoutAristocratMartinRevilla\\assets\\resources\\customlevels\\levels.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{2544FBF7-84C0-253B-6E69-D6A64E39D9A3}|Assembly-CSharp.csproj|solutionrelative:assets\\resources\\customlevels\\levels.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2544FBF7-84C0-253B-6E69-D6A64E39D9A3}|Assembly-CSharp.csproj|C:\\Users\\marti\\OneDrive\\Desktop\\U\\Games\\BreakoutAristocratMartinRevilla\\assets\\scripts\\ballengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2544FBF7-84C0-253B-6E69-D6A64E39D9A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ballengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2544FBF7-84C0-253B-6E69-D6A64E39D9A3}|Assembly-CSharp.csproj|C:\\Users\\marti\\OneDrive\\Desktop\\U\\Games\\BreakoutAristocratMartinRevilla\\assets\\scripts\\paddle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2544FBF7-84C0-253B-6E69-D6A64E39D9A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\paddle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2544FBF7-84C0-253B-6E69-D6A64E39D9A3}|Assembly-CSharp.csproj|C:\\Users\\marti\\OneDrive\\Desktop\\U\\Games\\BreakoutAristocratMartinRevilla\\assets\\scripts\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2544FBF7-84C0-253B-6E69-D6A64E39D9A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\marti\\OneDrive\\Desktop\\U\\Games\\BreakoutAristocratMartinRevilla\\Assets\\Brick.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Brick.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\marti\\OneDrive\\Desktop\\U\\Games\\BreakoutAristocratMartinRevilla\\Assets\\Test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ReadInLevelsLoader.cs",
+              "DocumentMoniker": "C:\\Users\\marti\\OneDrive\\Desktop\\U\\Games\\BreakoutAristocratMartinRevilla\\Assets\\Scripts\\ReadInLevelsLoader.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ReadInLevelsLoader.cs",
+              "ToolTip": "C:\\Users\\marti\\OneDrive\\Desktop\\U\\Games\\BreakoutAristocratMartinRevilla\\Assets\\Scripts\\ReadInLevelsLoader.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ReadInLevelsLoader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T01:56:06.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "levels.txt",
+              "DocumentMoniker": "C:\\Users\\marti\\OneDrive\\Desktop\\U\\Games\\BreakoutAristocratMartinRevilla\\Assets\\Resources\\CustomLevels\\levels.txt",
+              "RelativeDocumentMoniker": "Assets\\Resources\\CustomLevels\\levels.txt",
+              "ToolTip": "C:\\Users\\marti\\OneDrive\\Desktop\\U\\Games\\BreakoutAristocratMartinRevilla\\Assets\\Resources\\CustomLevels\\levels.txt",
+              "RelativeToolTip": "Assets\\Resources\\CustomLevels\\levels.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-04-25T23:01:25.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BrickEngine.cs",
+              "DocumentMoniker": "C:\\Users\\marti\\OneDrive\\Desktop\\U\\Games\\BreakoutAristocratMartinRevilla\\Assets\\Scripts\\BrickEngine.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BrickEngine.cs",
+              "ToolTip": "C:\\Users\\marti\\OneDrive\\Desktop\\U\\Games\\BreakoutAristocratMartinRevilla\\Assets\\Scripts\\BrickEngine.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BrickEngine.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAawEcAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T17:02:34.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Ball.cs",
+              "DocumentMoniker": "C:\\Users\\marti\\OneDrive\\Desktop\\U\\Games\\BreakoutAristocratMartinRevilla\\Assets\\Scripts\\Ball.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Ball.cs",
+              "ToolTip": "C:\\Users\\marti\\OneDrive\\Desktop\\U\\Games\\BreakoutAristocratMartinRevilla\\Assets\\Scripts\\Ball.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Ball.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAlwCgAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T22:38:47.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GameController.cs",
+              "DocumentMoniker": "C:\\Users\\marti\\OneDrive\\Desktop\\U\\Games\\BreakoutAristocratMartinRevilla\\Assets\\Scripts\\GameController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameController.cs",
+              "ToolTip": "C:\\Users\\marti\\OneDrive\\Desktop\\U\\Games\\BreakoutAristocratMartinRevilla\\Assets\\Scripts\\GameController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T18:55:58.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BallEngine.cs",
+              "DocumentMoniker": "C:\\Users\\marti\\OneDrive\\Desktop\\U\\Games\\BreakoutAristocratMartinRevilla\\Assets\\Scripts\\BallEngine.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BallEngine.cs",
+              "ToolTip": "C:\\Users\\marti\\OneDrive\\Desktop\\U\\Games\\BreakoutAristocratMartinRevilla\\Assets\\Scripts\\BallEngine.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BallEngine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T17:50:27.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Brick.cs",
+              "DocumentMoniker": "C:\\Users\\marti\\OneDrive\\Desktop\\U\\Games\\BreakoutAristocratMartinRevilla\\Assets\\Scripts\\Brick.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Brick.cs",
+              "ToolTip": "C:\\Users\\marti\\OneDrive\\Desktop\\U\\Games\\BreakoutAristocratMartinRevilla\\Assets\\Scripts\\Brick.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Brick.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAA4wEMAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T17:32:18.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Paddle.cs",
+              "DocumentMoniker": "C:\\Users\\marti\\OneDrive\\Desktop\\U\\Games\\BreakoutAristocratMartinRevilla\\Assets\\Scripts\\Paddle.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Paddle.cs",
+              "ToolTip": "C:\\Users\\marti\\OneDrive\\Desktop\\U\\Games\\BreakoutAristocratMartinRevilla\\Assets\\Scripts\\Paddle.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Paddle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T21:08:41.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PowerUpEngine.cs",
+              "DocumentMoniker": "C:\\Users\\marti\\OneDrive\\Desktop\\U\\Games\\BreakoutAristocratMartinRevilla\\Assets\\Scripts\\PowerUpEngine.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PowerUpEngine.cs",
+              "ToolTip": "C:\\Users\\marti\\OneDrive\\Desktop\\U\\Games\\BreakoutAristocratMartinRevilla\\Assets\\Scripts\\PowerUpEngine.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PowerUpEngine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T19:54:54.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Brick.cs",
+              "DocumentMoniker": "C:\\Users\\marti\\OneDrive\\Desktop\\U\\Games\\BreakoutAristocratMartinRevilla\\Assets\\Brick.cs",
+              "RelativeDocumentMoniker": "Assets\\Brick.cs",
+              "ToolTip": "C:\\Users\\marti\\OneDrive\\Desktop\\U\\Games\\BreakoutAristocratMartinRevilla\\Assets\\Brick.cs",
+              "RelativeToolTip": "Assets\\Brick.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T23:17:10.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Test.cs",
+              "DocumentMoniker": "C:\\Users\\marti\\OneDrive\\Desktop\\U\\Games\\BreakoutAristocratMartinRevilla\\Assets\\Test.cs",
+              "RelativeDocumentMoniker": "Assets\\Test.cs",
+              "ToolTip": "C:\\Users\\marti\\OneDrive\\Desktop\\U\\Games\\BreakoutAristocratMartinRevilla\\Assets\\Test.cs",
+              "RelativeToolTip": "Assets\\Test.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T20:26:20.499Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
