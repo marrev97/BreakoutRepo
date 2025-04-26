@@ -1,3 +1,6 @@
+Game was developed in Unity 2022.3.61f1
+
+
 Custom levels are placed in Assets/Resources/CustomLevels.
 
 It must be named "levels" for the game to read it.
